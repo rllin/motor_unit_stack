@@ -1,0 +1,9 @@
+*.pyc
+./experiments/frequency_curves/external_field_p_tuned.p
+./experiments/efferent_neuron_size/radius.p
+./experiments/frequency_curves/external_field_p.p
+./experiments/frequency_curves/external_field_p_tuned.p
+./experiments/rfd/force.p
+./experiments/rfd/force_wider.p
+./experiments/rfd/force_widest.p
+./experiments/rfd/mvc_grow.p
